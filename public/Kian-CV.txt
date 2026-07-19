@@ -1,0 +1,13 @@
+Kian
+Software Engineering Student
+Email: kian@portfolio.dev
+Portfolio: https://example.com
+
+Summary
+An IT student focused on building polished web experiences, practical systems, and thoughtful digital products.
+
+Skills
+- Programming: PHP, Java, Python, JavaScript
+- Frontend: HTML, CSS, Bootstrap, Vite
+- Backend: MySQL, SQL, API logic
+- Tools: Git, VS Code, Figma
